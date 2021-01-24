@@ -31,6 +31,8 @@ Thank you!
 - João Carlos Ramos Gonçalves de Matos
 - Maria Jorge Miranda Loureiro
 
+**Grade of this Project: 19/20**
+
 ---
 
 ## Product Vision
